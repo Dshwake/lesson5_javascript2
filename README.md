@@ -13,8 +13,7 @@ Web Application Development
 (WE had to learn about else if and sub in the numbers.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/Dshwake/lesson5_javascript2)
 
 ### Lessons Learned in the Assignment:
 1. (Learned about the if function.)
